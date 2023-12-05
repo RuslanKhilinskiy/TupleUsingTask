@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\obj\Debug\TupleUsingQuadro.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\obj\Debug\TupleUsingQuadro.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\bin\Debug\TupleUsingQuadro.exe.config
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\bin\Debug\TupleUsingQuadro.exe
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\bin\Debug\TupleUsingQuadro.pdb
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\obj\Debug\TupleUsingQuadro.exe
+D:\C#Learning\Labs\TupleUsingTask\TupleUsingQuadro\TupleUsingQuadro\obj\Debug\TupleUsingQuadro.pdb
